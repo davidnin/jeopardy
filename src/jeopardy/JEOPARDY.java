@@ -6,6 +6,7 @@
 package jeopardy;
 
 import view.VentanaPreguntasGUI;
+import view.ViewJeopardy;
 
 
 
@@ -20,7 +21,7 @@ public class JEOPARDY {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+        new ViewJeopardy();
     }
     
 }
