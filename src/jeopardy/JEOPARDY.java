@@ -5,11 +5,11 @@
  */
 package jeopardy;
 
+import controller.ControladorJugadores;
+import model.Jugador;
+import view.VentanaJugadorGUI;
 import view.VentanaPreguntasGUI;
 import view.ViewJeopardy;
-
-
-
 
 /**
  *
@@ -21,7 +21,9 @@ public class JEOPARDY {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        new ViewJeopardy();
+        Jugador jug = new Jugador();
+        VentanaJugadorGUI vista = new VentanaJugadorGUI();
+        ControladorJugadores controlador = new ControladorJugadores(jug, vista);
     }
-    
+
 }
