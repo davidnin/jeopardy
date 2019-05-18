@@ -7,6 +7,11 @@
             <file>file:/C:/Users/usuario/Documents/La_Salle/2n_Daw/M3_Programacion/UF5%20Librerias/Actividades/JEOPARDY/src/model/Jugador.java</file>
             <file>file:/C:/Users/usuario/Documents/La_Salle/2n_Daw/M3_Programacion/UF5%20Librerias/Actividades/JEOPARDY/src/model/Tablero.java</file>
         </group>
-        <group/>
+        <group>
+            <file>file:/C:/Users/usuario/Documents/La_Salle/2n_Daw/M3_Programacion/UF5%20Librerias/Actividades/JEOPARDY/src/view/VentanaFinal.java</file>
+            <file>file:/C:/Users/usuario/Documents/La_Salle/2n_Daw/M3_Programacion/UF5%20Librerias/Actividades/JEOPARDY/src/view/VentanaEmpate.java</file>
+            <file>file:/C:/Users/usuario/Documents/La_Salle/2n_Daw/M3_Programacion/UF5%20Librerias/Actividades/JEOPARDY/src/controller/ControladorFinal.java</file>
+            <file>file:/C:/Users/usuario/Documents/La_Salle/2n_Daw/M3_Programacion/UF5%20Librerias/Actividades/JEOPARDY/src/controller/ControladorEmpate.java</file>
+        </group>
     </open-files>
 </project-private>
